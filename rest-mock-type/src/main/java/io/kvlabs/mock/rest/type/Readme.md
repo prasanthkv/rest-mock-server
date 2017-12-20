@@ -1,0 +1,1 @@
+### io.kvlabs.mock.rest.type
